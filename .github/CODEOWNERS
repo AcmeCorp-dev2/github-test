@@ -12,4 +12,4 @@
 /develop/*.xml @Rahul-Alladi
 
 # Assign code ownership to the team "test"
-*.jsp @test   
+#*.jsp @test   
