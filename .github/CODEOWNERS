@@ -1,17 +1,19 @@
+# These owners will be the default owners for everything in the repo.
+* @sivanagireddy001
+
 # Code owners for the "develop" branch
-/develop/* @Rahul-Alladi
+/develop @Rahul-Alladi
 
 # Code owners for the "release" branch
-/release/* @sivanagireddy001
+/release @sivanagireddy001
 
 # Code owners for the "master" branch
-/main/* @sivanagireddy001
+/main @sivanagireddy001
 
 *.py @sivanagireddy001
 
-/develop/*.xml @Rahul-Alladi
+*.xml @Rahul-Alladi
 
 # Assign code ownership to the team "test"
-#*.jsp @test   
 
-* @sivanagireddy001
+#*.yml @AcmeCorp-dev2/test  
