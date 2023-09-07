@@ -1,0 +1,15 @@
+# Code owners for the "develop" branch
+/develop/* @Rahul-Alladi
+
+# Code owners for the "release" branch
+/release/* @sivanagireddy001
+
+# Code owners for the "master" branch
+/main/* @sivanagireddy001
+
+*.py @sivanagireddy001
+
+/develop/*.xml @Rahul-Alladi
+
+# Assign code ownership to the team "test"
+*.jsp @test   
