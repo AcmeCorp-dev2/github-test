@@ -12,7 +12,7 @@
 
 *.py @sivanagireddy001
 
-/develop/*.xml @Rahul-Alladi
+*.xml @Rahul-Alladi
 
 # Assign code ownership to the team "test"
 *.yml @AcmeCorp-dev2/test   
