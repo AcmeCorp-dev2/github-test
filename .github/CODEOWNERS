@@ -1,3 +1,6 @@
+# These owners will be the default owners for everything in the repo.
+* @sivanagireddy001
+
 # Code owners for the "develop" branch
 /develop/* @Rahul-Alladi
 
@@ -12,4 +15,4 @@
 /develop/*.xml @Rahul-Alladi
 
 # Assign code ownership to the team "test"
-#*.jsp @test   
+*.yml @AcmeCorp-dev2/test   
